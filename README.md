@@ -1,4 +1,4 @@
-# tudum-react
+# todo-react
 A simple react todo app  <br />
 
 https://satx-todo.netlify.app  <br />
